@@ -7,6 +7,9 @@
 
 👯 I’m looking to collaborate on challenging React or React Native related projects.
 
+<div align="center">
+	<a href="https://www.linkedin.com/in/ozkanabdullahoglu/" target="_blank" title="Ozkan Abdullahoglu on LinkedIn"><img src="https://github.com/OzkanAbdullahoglu/OzkanAbdullahoglu/blob/master/assets/linkedin.svg" alt='linkedin' role='image' width="25" /></a>
+</div>
 <!--
 **OzkanAbdullahoglu/OzkanAbdullahoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
