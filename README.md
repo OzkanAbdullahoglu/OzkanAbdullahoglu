@@ -1,7 +1,7 @@
 ![Banner for OzkanAbdullahoglu](https://github.com/OzkanAbdullahoglu/OzkanAbdullahoglu/raw/master/assets/working.svg)
 ### Hi I'm Ozkan 👋
 ## 💻 Front End Engineer
-# As a front end engineer I have extensive experience with semantic HTML, SCSS, and vanilla JavaScript (ES6+), I feel comfortable with React and React Native. 
+⚡ As a front end engineer I have extensive experience with semantic HTML, SCSS, and vanilla JavaScript (ES6+), I feel comfortable with React and React Native. 
 🌱 I’m currently learning Typescript
 👯 I’m looking to collaborate on challenging React or React Native related projects.
 
