@@ -1,4 +1,4 @@
-![Banner for OzkanAbdullahoglu](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
+![Banner for OzkanAbdullahoglu](https://github.com/OzkanAbdullahoglu/OzkanAbdullahoglu/raw/master/assets/working.svg)
 ### Hi I'm Ozkan 👋
 
 <!--
